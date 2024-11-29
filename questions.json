@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "What number just comes before 8?",
+        "options": [
+            "7",
+            "9",
+            "10",
+            "6"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2",
+        "question": "What number is between 4 and 6?",
+        "options": [
+            "3",
+            "5",
+            "7",
+            "2"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Which number is just before 20?",
+        "options": [
+            "21",
+            "19",
+            "18",
+            "17"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "What number comes just after 12?",
+        "options": [
+            "11",
+            "10",
+            "13",
+            "9"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q5",
+        "question": "What number is between 9 and 11?",
+        "options": [
+            "7",
+            "8",
+            "12",
+            "10"
+        ],
+        "correct": 3
+    }
+]
